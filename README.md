@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
   <img src="https://exbxwvxqlnbphyieygiz.supabase.co/storage/v1/object/public/Roupas/S-logo.png" width="100">
 </div>
@@ -123,6 +122,3 @@ classDiagram
 - [@Matheus](https://github.com/gauloish)
 - [@Monik](https://github.com/MonikAlves)
 =======
-# SavioStore
-E-commerce full project
->>>>>>> 96627ba5506d4fbf9239ce3459a54aadea39093d
