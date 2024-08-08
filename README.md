@@ -121,4 +121,3 @@ classDiagram
 - [@Luiz](https://github.com/LuizGDC7)
 - [@Matheus](https://github.com/gauloish)
 - [@Monik](https://github.com/MonikAlves)
-=======
